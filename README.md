@@ -59,6 +59,7 @@ public class TicketController {
 위와 같이 셋팅되어있는 환경에서 부하 테스트를 위해 Jmeter를 설치해준다.
 
 ```bash
+# MAC 환경에서 Test가 진행되었습니다.
 brew install jmeter
 ```
 
